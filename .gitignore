@@ -1,0 +1,21 @@
+# Local tools, upstream research checkouts and generated reports
+.venv/
+.local/
+build/
+reports/local/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Proprietary applications, installers, documents and credentials
+*.app/
+*.pkg
+*.dmg
+*.hwp
+*.hwpx
+*.provisionprofile
+*.mobileprovision
+*.p12
+*.pem
+.env
+.env.*
